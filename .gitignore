@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+.idea/
+.DS_Store
+*.pt
+
+datasets/DomainNet/
+datasets/PACS/
+datasets/OfficeHome/
+generated_data/
+outputs/
